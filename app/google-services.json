@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148390784887",
+    "project_id": "fir-aula-001",
+    "storage_bucket": "fir-aula-001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148390784887:android:a2ba7f2a0fc8849a6d7b72",
+        "android_client_info": {
+          "package_name": "peu.example.usandofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148390784887-nu09ffo46i022nbv20thb5621vde6hl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx8pYApJOo2VmcYBEOtw-PvV8XeLdxt0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148390784887-nu09ffo46i022nbv20thb5621vde6hl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
